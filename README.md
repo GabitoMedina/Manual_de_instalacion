@@ -25,19 +25,19 @@ First, the users must subscribed to the app as clients or providers. Then, if yo
  
 
 0) Download [Nodejs](https://nodejs.org/es/) version 14.12.0.
-1) Install Ionic: `npm i ionic@latest -g`
+1) Install Ionic: `npm install ionic@latest -g`
 2) Clone this repository.
 3) Install all packages: 
 * `npm install`.
-* `npm i @ionic/react-hooks`
-* `npm i firebase --save`
-* `npm i @types/firebase --save-dev`
+* `npm install @ionic/react-hooks`
+* `npm install firebase --save`
+* `npm install @types/firebase --save-dev`
 * `npm install --save react-firebase-hooks`
 * `npm install @capacitor/geolocation`
 * `npm install @capacitor/camera`
-* `npm i cordova-plugin-email-composer`
+* `npm install cordova-plugin-email-composer`
 * `npm install --save @ionic-native/email-composer`
-* `npm i @awesome-cordova-plugins/email-composer @awesome-cordova-plugins/core`
+* `npm install @awesome-cordova-plugins/email-composer @awesome-cordova-plugins/core`
 * `npm install react-hook-form`
 * `npx cap sync`
 
