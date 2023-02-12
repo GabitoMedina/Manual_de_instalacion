@@ -1,0 +1,7 @@
+{
+  "name": "ionic-winchas",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
