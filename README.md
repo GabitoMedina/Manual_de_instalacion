@@ -17,7 +17,7 @@ Ionic-Winchas is an app powered by [Ionic React](https://ionicframework.com/docs
 ## How It Works
 
 
-First, the users must subscribed to the app by clients or providers. Then, if you are provider, you need to register a vehicle and  price of services. If you are client, after the registration on the app, you can see a list of winchas an choose what ever you liked and ask for the services providers. In this part you can ask for a call, whatsapp or email. 
+First, the users must subscribed to the app as clients or providers. Then, if you are provider, you need to register a vehicle and  price of services. If you are client, after the registration on the app, you can see a list of winchas an choose what ever you liked and ask for the services providers. In this part you can ask for a call, whatsapp or email. 
 
 
 
