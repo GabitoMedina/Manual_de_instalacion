@@ -1,4 +1,4 @@
-# Manual de instalacion
+# Manual de instalación
  <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://ionicframework.com/docs/assets/images/react-logo-b64b7471f0ebe5f7a9a281ba2f72b63a.png" width="150"></a><a href="https://laravel.com" target="_blank"><img src="https://www.gstatic.com/devrel-devsite/prod/vde5e97689c1d94fa683b9e5392f0f6b6562f68c8b527194cc7ca91d97bde649f/firebase/images/lockup.svg" width="400"></a></p>
 
 ## About Ionic-React
