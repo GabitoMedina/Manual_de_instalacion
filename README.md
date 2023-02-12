@@ -17,35 +17,29 @@ Ionic-Winchas is an app powered by [Ionic React](https://ionicframework.com/docs
 ## How It Works
 
 
-After the user navigates to Tab 2 (Photos), they can tap/click on the camera button to open up the device's camera. After taking or selecting a photo, it's stored permanently into the device's filesystem. When the user reopens the app at a later time, the photo images are loaded from the filesystem and displayed again in the gallery. The user can tap on a photo to be presented with the option to remove the photo.
+First, the users must subscribed to the app by clients or providers. Then, if you are provider, you need to register a vehicle and  price of services. If you are client, after the registration on the app, you can see a list of winchas an choose what ever you liked and ask for the services providers. In this part you can ask for a call, whatsapp or email. 
 
-## Feature Overview
-* App framework: [React](https://reactjs.org/)
-* UI components: [Ionic Framework](https://ionicframework.com/docs/components)
-  * Camera button: [Floating Action Button (FAB)](https://ionicframework.com/docs/api/fab)
-  * Photo Gallery display: [Grid](https://ionicframework.com/docs/api/grid)
-  * Delete Photo dialog: [Action Sheet](https://ionicframework.com/docs/api/action-sheet) 
-* Native runtime: [Capacitor](https://capacitor.ionicframework.com)
-  * Taking photos: [Camera API](https://capacitor.ionicframework.com/docs/apis/camera)
-  * Writing photo to the filesystem: [Filesystem API](https://capacitor.ionicframework.com/docs/apis/filesystem)
-  * Storing photo gallery metadata: [Preferences API](https://capacitor.ionicframework.com/docs/apis/preferences)
 
-## Project Structure
-* Tab2 (Photos) (`src/pages/Tab2.tsx`): Photo Gallery UI and basic logic.
-* usePhotoGallery Hook (`src/hooks/usePhotoGallery.ts`): Logic encapsulating Capacitor APIs, including Camera, Filesystem, and Preferences.
 
 ## How to Run
+ 
 
-> Note: It's highly recommended to follow along with the [tutorial guide](https://ionicframework.com/docs/react/your-first-app), which goes into more depth, but this is the fastest way to run the app. 
+0) Download [Nodejs](https://nodejs.org/es/) version 14.12.0.
+1) Install Ionic: `npm i ionic@latest -g`
+2) Clone this repository.
+3) Install all packages: 
+* `npm install`.
+* `npm i @ionic/react-hooks`
+* `npm i firebase --save`
+* `npm i @types/firebase --save-dev`
+* `npm install --save react-firebase-hooks`
+* `npm install @capacitor/geolocation`
+* `npm install @capacitor/camera`
+* `npm i cordova-plugin-email-composer`
+* `npm install --save @ionic-native/email-composer`
+* `npm i @awesome-cordova-plugins/email-composer @awesome-cordova-plugins/core`
+* `npm install react-hook-form`
+* `npx cap sync`
 
-0) Install Ionic if needed: `npm install -g @ionic/cli`.
-1) Clone this repository.
-2) In a terminal, change directory into the repo: `cd photo-gallery-capacitor-react`.
-3) Install all packages: `npm install`.
 4) Run on the web: `ionic serve`.
-5) Run on iOS or Android: See [here](https://ionicframework.com/docs/building/running).
-
-
-
-
-
+5) Run on Android: See [here](https://ionicframework.com/docs/building/running).
