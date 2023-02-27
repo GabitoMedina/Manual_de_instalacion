@@ -43,3 +43,4 @@ First, the users must subscribed to the app as clients or providers. Then, if yo
 
 4) Run on the web: `ionic serve`.
 5) Run on Android: See [here](https://ionicframework.com/docs/building/running).
+6) How to used the app (manual of user): [here](https://www.youtube.com/watch?v=wHMhGNLTiTc)
