@@ -35,7 +35,7 @@ https://github.com/GabitoMedina/Manual_de_instalacion.git
 * `ionic serve`
 6) Desplegar en Android: como ejecutar en [Android](https://ionicframework.com/docs/building/running).
 # Manual de Usuario
-Esta sección esta dedicada sobre el funcionamiento de la aplicación móvil.
+<p>Esta sección esta dedicada sobre el funcionamiento de la aplicación móvil.</p>
 https://www.youtube.com/watch?v=wHMhGNLTiTc
 
 
