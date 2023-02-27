@@ -1,4 +1,37 @@
-# Installation Manual
+# Ionic - Winchas
+Es un proyecto con el proposito de ayudar a la gestion de plataformas auto cargables, comunmente conocidas como winchas.
+![imagen](https://user-images.githubusercontent.com/20603961/221480827-f8ce197c-48ce-44bb-a2ef-5336b93e3d33.png)
+
+# Manual de Instalación
+Para ejecutar y desplegar el proyecto se deben seguir los siguientes parametros:
+0) Descargar [Nodejs](https://nodejs.org/es/) version 14.12.0.
+1)Clonar este repositorio
+https://github.com/GabitoMedina/Manual_de_instalacion.git
+2)Crear una base de datos en Firebase(https://firebase.google.com/)
+3)Copiar la API KEY de la base de datos de Firebase
+y pegarla en el archivo firebaseConfig.ts
+<p align="center"><img src="![imagen](https://user-images.githubusercontent.com/20603961/221483326-86488035-c303-4ee1-b15b-0006926685f6.png)" width="150"><img src="![imagen](https://user-images.githubusercontent.com/20603961/221483591-bacc1977-a75e-4ca6-90ce-1596072d85a4.png)" width="400"></p>
+1) Install Ionic: `npm install ionic@latest -g`
+2) Clone this repository.
+3) Install all packages: 
+* `npm install`.
+* `npm install @ionic/react-hooks`
+* `npm install firebase --save`
+* `npm install @types/firebase --save-dev`
+* `npm install --save react-firebase-hooks`
+* `npm install @capacitor/geolocation`
+* `npm install @capacitor/camera`
+* `npm install cordova-plugin-email-composer`
+* `npm install --save @ionic-native/email-composer`
+* `npm install @awesome-cordova-plugins/email-composer @awesome-cordova-plugins/core`
+* `npm install react-hook-form`
+* `npx cap sync`
+
+4) Run on the web: `ionic serve`.
+5) Run on Android: See [here](https://ionicframework.com/docs/building/running).
+6) How to used the app (manual of user): [here](https://www.youtube.com/watch?v=wHMhGNLTiTc)
+
+
  <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://ionicframework.com/docs/assets/images/react-logo-b64b7471f0ebe5f7a9a281ba2f72b63a.png" width="150"></a><a href="https://laravel.com" target="_blank"><img src="https://www.gstatic.com/devrel-devsite/prod/vde5e97689c1d94fa683b9e5392f0f6b6562f68c8b527194cc7ca91d97bde649f/firebase/images/lockup.svg" width="400"></a></p>
 
 ## About Ionic-React
