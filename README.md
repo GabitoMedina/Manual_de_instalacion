@@ -1,5 +1,6 @@
 # Ionic - Winchas
 Es un proyecto con el proposito de ayudar a la gestion de plataformas auto cargables, comunmente conocidas como winchas.
+
 ![imagen](https://user-images.githubusercontent.com/20603961/221480827-f8ce197c-48ce-44bb-a2ef-5336b93e3d33.png)
 
 # Manual de Instalación
@@ -7,10 +8,10 @@ Para ejecutar y desplegar el proyecto se deben seguir los siguientes parametros:
 0) Descargar [Nodejs](https://nodejs.org/es/) version 14.12.0.
 1)Clonar este repositorio
 https://github.com/GabitoMedina/Manual_de_instalacion.git
-2)Crear una base de datos en Firebase(https://firebase.google.com/)
+2)Crear una base de datos en [Firebase](https://firebase.google.com/)
 3)Copiar la API KEY de la base de datos de Firebase
 y pegarla en el archivo firebaseConfig.ts
-<p align="center"><img src="![imagen](https://user-images.githubusercontent.com/20603961/221483326-86488035-c303-4ee1-b15b-0006926685f6.png)" width="150"><img src="![imagen](https://user-images.githubusercontent.com/20603961/221483591-bacc1977-a75e-4ca6-90ce-1596072d85a4.png)" width="400"></p>
+<p align="center"><img src="" width="150"><img src="![imagen](https://user-images.githubusercontent.com/20603961/221483591-bacc1977-a75e-4ca6-90ce-1596072d85a4.png)" width="400"></p>
 1) Install Ionic: `npm install ionic@latest -g`
 2) Clone this repository.
 3) Install all packages: 
