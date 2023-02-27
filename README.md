@@ -4,7 +4,8 @@ Es un proyecto con el proposito de ayudar a la gestion de plataformas auto carga
 ![imagen](https://user-images.githubusercontent.com/20603961/221480827-f8ce197c-48ce-44bb-a2ef-5336b93e3d33.png)
 
 # Manual de Instalación
-Para ejecutar y desplegar el proyecto se deben seguir los siguientes parametros
+<p>Para ejecutar y desplegar el proyecto se deben seguir los siguientes parametros</p>
+
 0) Descargar [Nodejs](https://nodejs.org/es/) version 14.12.0.
 1)Clonar este repositorio
 https://github.com/GabitoMedina/Manual_de_instalacion.git
