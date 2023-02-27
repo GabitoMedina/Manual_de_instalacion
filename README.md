@@ -11,9 +11,11 @@ Es un proyecto con el proposito de ayudar a la gestion de plataformas auto carga
 https://github.com/GabitoMedina/Manual_de_instalacion.git
 
 2) Crear una base de datos en [Firebase](https://firebase.google.com/)
-3) Copiar la API KEY de la base de datos de Firebase
-![imagen](https://user-images.githubusercontent.com/20603961/221484907-cdfe661a-196a-4e4b-93ff-cb10d360b9e4.png)
-y pegarla en el archivo firebaseConfig.ts ![imagen](https://user-images.githubusercontent.com/20603961/221485694-61a811ec-66b3-4c21-b19e-02461aaa933e.png)
+3) Copiar la API KEY de la base de datos de Firebase y pegarla en el archivo firebaseConfig.ts
+
+ 
+<p align="center"><a ><img src="![imagen](https://user-images.githubusercontent.com/20603961/221484907-cdfe661a-196a-4e4b-93ff-cb10d360b9e4.png)" width="150"></a><a><img src="![imagen](https://user-images.githubusercontent.com/20603961/221485694-61a811ec-66b3-4c21-b19e-02461aaa933e.png)" width="400"></a></p>
+
 
 4) Ingrese a la carpeta del proyecto e instale todas las librerias necesarias.
 * `npm install`.
@@ -33,9 +35,6 @@ y pegarla en el archivo firebaseConfig.ts ![imagen](https://user-images.githubus
 6) Desplegar en Android: como ejecutar en [Android](https://ionicframework.com/docs/building/running).
 # Manual de Usuario
 https://www.youtube.com/watch?v=wHMhGNLTiTc
-4) Run on the web: `ionic serve`.
-5) Run on Android: See [here](https://ionicframework.com/docs/building/running).
-6) How to used the app (manual of user): [here](https://www.youtube.com/watch?v=wHMhGNLTiTc)
 
 
  <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://ionicframework.com/docs/assets/images/react-logo-b64b7471f0ebe5f7a9a281ba2f72b63a.png" width="150"></a><a href="https://laravel.com" target="_blank"><img src="https://www.gstatic.com/devrel-devsite/prod/vde5e97689c1d94fa683b9e5392f0f6b6562f68c8b527194cc7ca91d97bde649f/firebase/images/lockup.svg" width="400"></a></p>
